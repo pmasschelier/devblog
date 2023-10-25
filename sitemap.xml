@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://pmasschelier.github.io/devblog/categories/</loc>
+    <loc>https://pmasschelier.github.io/devblog/categories/</loc>
   </url><url>
-    <loc>http://pmasschelier.github.io/devblog/tags/</loc>
+    <loc>https://pmasschelier.github.io/devblog/tags/</loc>
   </url><url>
-    <loc>http://pmasschelier.github.io/devblog/</loc>
+    <loc>https://pmasschelier.github.io/devblog/</loc>
   </url>
 </urlset>
